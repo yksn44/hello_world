@@ -1,7 +1,10 @@
 # hello_world  
-** Hello world**と書いてみましょう  
+__Hello world__と書いてみましょう  
 ~~練習practice~~  
-<font  color = "red"> これは赤です </font>
+
+ご注文は  
+>うさぎ  
+>> ですか？
 
 #include<bits/stdc++.h>
 using namespace std;
