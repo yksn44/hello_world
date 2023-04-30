@@ -1,5 +1,5 @@
 # hello_world  
-__Hello world__と書いてみましょう  
+__ボールド__　と書いてみましょう  
 ~~練習practice~~  
 
 ご注文は  
